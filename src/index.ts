@@ -1,3 +1,3 @@
 ///<reference path="./types/index.d.ts" />
 
-export * from "./components";
+export * from "./tools";

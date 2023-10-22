@@ -1,1 +1,1 @@
-export {default as Button} from "./MDStoreClient";
+export {default as FireStoreClient} from "./FireStoreClient";
